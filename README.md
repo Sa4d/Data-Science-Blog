@@ -32,4 +32,14 @@ lastly since I'm from saudi arabia, I wanted to take a look around the Saudi Ara
 
 'Stack Overflow Suvery.html' : the notebook that I created in an html format
 
+and for the dataset I used can be found here on [Kaggle](https://www.kaggle.com/stackoverflow/so-survey-2017/data)
 
+## Summary of the results 
+
+For this part currently I'm working on a Medium post where I will share my findings
+
+## acknowledgements
+
+First of all thanks to Joshua Bernhard for his teaching and helping us with some coding ideas, also Stack overflow and kaggle
+
+the licensing of the data can be found on [Kaggle](https://www.kaggle.com/stackoverflow/so-survey-2017/data)
