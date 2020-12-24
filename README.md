@@ -36,7 +36,7 @@ and for the dataset I used can be found here on [Kaggle](https://www.kaggle.com/
 
 ## Summary of the results 
 
-For this part currently I'm working on a Medium post where I will share my findings
+For the Summary please check my [Medium link](https://saad-k-alrazoq.medium.com/stack-overflow-analysis-and-insights-f389d890110b)
 
 ## acknowledgements
 
